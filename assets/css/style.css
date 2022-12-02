@@ -1,0 +1,32 @@
+/*
+    To adjust the icon size to a bigger one
+*/
+.dashboard-icon{
+    width: 5em;
+    height: 5em;
+    object-fit: cover;
+}
+#dashboard-icon{
+    width: 5em;
+    height: 5em;
+    object-fit: cover;
+}
+
+.edit-photo{
+    width: 7em;
+    height: 7em;
+    object-fit: cover;
+}
+
+#edit-photo{
+    width: 7em;
+    height: 7em;
+    object-fit: cover;
+}
+
+/*
+    To adjust the icon size to a bigger one
+*/
+.edit-icon{
+    font-size: 7em;
+}
