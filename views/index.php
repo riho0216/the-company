@@ -25,6 +25,8 @@
                         <button type="submit" class="btn btn-primary w-100">Login</button>
                     </form>
                     <p class="text-center small"><a href="../views/register.php">Create Account</a></p>
+                    <br>
+                    <p class="text-center small">Dev Advance Class of 2022</p>
                 </div>
             </div>
         </div>
